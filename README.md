@@ -1,0 +1,1 @@
+This repository contains information about the basics of the shell, so let's practice.

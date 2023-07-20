@@ -3,3 +3,4 @@
 2. cd: change the directory
 3. ls -l: list the actual directory in a long format.
 4. ls -la: long list the directory with hidden elements.
+5. ls -na: long list with hidden elements and user numbers.

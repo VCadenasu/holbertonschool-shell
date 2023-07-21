@@ -6,3 +6,4 @@
 5. ls -na: long list with hidden elements and user numbers.
 6. mkdir: to create a new directory
 7. mv: move a file
+8. rm: remove, delete a file

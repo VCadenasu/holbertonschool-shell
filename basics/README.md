@@ -10,3 +10,4 @@
 9. rm -r: delete a directory with content.
 10. cd -P: go to the previoues directory (not father)
 11. ls -la: listing specifics directories.
+12. touch xx/xx: create a file in a different directory.

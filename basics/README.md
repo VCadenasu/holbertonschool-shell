@@ -8,3 +8,4 @@
 7. mv: move a file
 8. rm: remove, delete a file
 9. rm -r: delete a directory with content.
+10. cd -P: go to the previoues directory (not father)

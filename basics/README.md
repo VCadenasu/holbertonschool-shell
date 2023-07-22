@@ -12,3 +12,7 @@
 11. ls -la: listing specifics directories.
 12. file xx/xx: create a file in a different directory.
 13. ln: Create a link
+14. cp -a *(): copy a certain type of document.
+15. command upper:
+16. rm *~: remove files made with emacs
+17. mkdir -p: create parents and subdirectories
